@@ -1,0 +1,6 @@
+item-----> Price
+meat-----> $5.95
+hawaiian-----> $4.95
+vegdelight------>$3.90
+big mac------->$6.95
+mcflurry------>$3.59
